@@ -24,6 +24,8 @@ Disponível em: https://www.youtube.com/watch?v=1ow0NQv5Fsk&t=993s
 
  ### 3 - Próxima etapa - Criar arquivo Terraform para interação com LocalStack
 
+ Arquivos disponíveis na pasta "terraform para infra" no repo. 
+
  Página oficial da documentação Terraform: https://developer.hashicorp.com/terraform
 
  --- para entender como funciona a integração, além da documentação busquei no vídeo: https://www.youtube.com/watch?v=OMEf3XGyof8 mais informações...
@@ -36,6 +38,7 @@ Disponível em: https://www.youtube.com/watch?v=1ow0NQv5Fsk&t=993s
  1 - Kind Cluster - https://registry.terraform.io/providers/tehcyx/kind/latest/docs/resources/cluster
  2 - Kubectl provider - https://registry.terraform.io/providers/gavinbunney/kubectl/latest/docs
  Para entender a integração segui os passos disponíveis no vídeo: https://www.youtube.com/watch?v=lK_VX_TpjCU
+ 3 - Arquivos de configuração disponíveis na pasta "kind" no repo. 
 
  
 
