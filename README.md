@@ -4,7 +4,7 @@
 ### 1 - Primeiro passo foi realizar o fork do repositório:
 Próxima etapa foi realizar o clone do reposítório para iniciar os testes na máquina local. Abaixo, print do browser localhost: 
 
-![Print da home do projeto](https://drive.google.com/file/d/1BP0zZkwczhPOGl6kv254f1u2qigMvd4V/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1BP0zZkwczhPOGl6kv254f1u2qigMvd4V/view?usp=sharing" alt="Print da home do projeto">
 
 ### 2 - LocalStack 
 
