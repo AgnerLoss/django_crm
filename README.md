@@ -4,9 +4,9 @@
 ### 1 - Primeiro passo foi realizar o fork do repositório:
 Próxima etapa foi realizar o clone do reposítório para iniciar os testes na máquina local. Abaixo, print do browser localhost: 
 
-https://drive.google.com/file/d/1BP0zZkwczhPOGl6kv254f1u2qigMvd4V/view?usp=sharing
+![Print da home do projeto](https://drive.google.com/file/d/1BP0zZkwczhPOGl6kv254f1u2qigMvd4V/view?usp=sharing)
 
-### 2 - LocalStack
+### 2 - LocalStack 
 
 Como não conhecia o LocalStack fui atrás de conhecimento, acessei a documentação no site oficial da solução disponível em: https://docs.localstack.cloud/overview/
 
@@ -20,7 +20,7 @@ Disponível em: https://www.youtube.com/watch?v=1ow0NQv5Fsk&t=993s
 
  --- Instalação e integração realizada com sucesso!!!
 
- https://drive.google.com/file/d/18lreHKGPsRUXSwS_8xx1yR8J8PWnD_yI/view?usp=sharing
+ ![Print da home do projeto]( https://drive.google.com/file/d/18lreHKGPsRUXSwS_8xx1yR8J8PWnD_yI/view?usp=sharing)
 
  ### 3 - Próxima etapa - Criar arquivo Terraform para interação com LocalStack
 
