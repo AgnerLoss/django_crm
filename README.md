@@ -4,7 +4,7 @@
 ### 1 - Primeiro passo foi realizar o fork do repositório:
 Próxima etapa foi realizar o clone do reposítório para iniciar os testes na máquina local. Abaixo, print do browser localhost: 
 
-<img src="/imagens/container local funcionando.png">
+<img src="django_crm/imagens/container.png">
 
 ### 2 - LocalStack 
 
