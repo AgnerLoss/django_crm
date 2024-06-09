@@ -35,10 +35,10 @@ Disponível em: https://www.youtube.com/watch?v=1ow0NQv5Fsk&t=993s
  ### 4 - Próxima etapa - Criar arquivo Terraform para criar kubernetes com kind
 
  Utilizei a documentação oficial do terraform registry. Disponível em: https://registry.terraform.io/
- --- 1 - Kind Cluster - https://registry.terraform.io/providers/tehcyx/kind/latest/docs/resources/cluster
- --- 2 - Kubectl provider - https://registry.terraform.io/providers/gavinbunney/kubectl/latest/docs
- Para entender a integração segui os passos disponíveis no vídeo: https://www.youtube.com/watch?v=lK_VX_TpjCU
- --- 3 - Arquivos de configuração disponíveis na pasta "kind" no repo. 
+ - 1 - Kind Cluster - https://registry.terraform.io/providers/tehcyx/kind/latest/docs/resources/cluster
+ - 2 - Kubectl provider - https://registry.terraform.io/providers/gavinbunney/kubectl/latest/docs
+ - Para entender a integração segui os passos disponíveis no vídeo: https://www.youtube.com/watch?v=lK_VX_TpjCU
+ - 3 - Arquivos de configuração disponíveis na pasta "kind" no repo. 
 
  
 
