@@ -20,7 +20,7 @@ Disponível em: https://www.youtube.com/watch?v=1ow0NQv5Fsk&t=993s
 
  --- Instalação e integração realizada com sucesso!!!
 
- ![Print da home do projeto]( https://drive.google.com/file/d/18lreHKGPsRUXSwS_8xx1yR8J8PWnD_yI/view?usp=sharing)
+ <img src="https://github.com/AgnerLoss/django_crm/blob/develop/imagens/integracao%20localstack.png">
 
  ### 3 - Próxima etapa - Criar arquivo Terraform para interação com LocalStack
 
